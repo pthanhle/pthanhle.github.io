@@ -1,0 +1,7 @@
+{
+  "apiBaseUrl": "https://looks-event-cleaners-piano.trycloudflare.com",
+  "webhookPath": "/api/v1/payments/webhooks/bank-transfer",
+  "webhookUrl": "https://looks-event-cleaners-piano.trycloudflare.com/api/v1/payments/webhooks/bank-transfer",
+  "webhookSecret": "VQR26-3822A7DEDF7D662C8C73AB50",
+  "publicWebOrigin": "https://pthanhle.github.io"
+}
