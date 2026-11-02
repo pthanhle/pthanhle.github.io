@@ -1,4 +1,7 @@
 {
-  "apiBaseUrl": "",
-  "webhookPath": "/api/v1/payments/webhooks/bank-transfer"
+  "apiBaseUrl": "https://statement-file-bull-toe.trycloudflare.com",
+  "socketUrl": "https://statement-file-bull-toe.trycloudflare.com",
+  "webhookPath": "/api/v1/payments/webhooks/bank-transfer",
+  "webhookUrl": "https://statement-file-bull-toe.trycloudflare.com/api/v1/payments/webhooks/bank-transfer",
+  "publicWebOrigin": "https://pthanhle.github.io"
 }
